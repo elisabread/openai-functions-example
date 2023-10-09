@@ -1,0 +1,15 @@
+{
+  "name": "openai-functions-example-lambda-functions",
+  "version": "1.0.0",
+  "description": "The functions operating within Lambda.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elisabeth Nyström",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "dependencies": {
+    "openai": "^3.3.0"
+  }
+}
